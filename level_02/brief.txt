@@ -1,0 +1,14 @@
+Niveau 02 — Lecture de fichiers
+
+Votre mission : retrouver un flag au format FLAG{...}.
+
+Commencez par explorer le dossier donnees/.
+Le fichier historique.log contient des informations utiles,
+mais il est trop long pour être lu n'importe comment.
+
+Essayez :
+  head donnees/historique.log
+  tail donnees/historique.log
+  less donnees/historique.log
+
+Bon courage !

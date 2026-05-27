@@ -1,0 +1,12 @@
+Bienvenue dans le niveau 01 !
+
+Vous cherchez un flag au format FLAG{...}.
+Utilisez pwd, ls et cd pour explorer les dossiers autour de vous.
+
+
+La commande pwd permet de connaitre le dossier courant
+La commande ls ( Liste ) permet de lister les fichiers d'un dossiers
+la commande cd ( change directory ) permet de naviger entre les dossiers
+
+
+Indice : tout commence par la maison...

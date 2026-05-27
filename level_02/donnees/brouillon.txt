@@ -1,0 +1,3 @@
+Fausse piste : le flag n'est pas ici.
+
+Essayez plutôt de lire historique.log avec head et tail.

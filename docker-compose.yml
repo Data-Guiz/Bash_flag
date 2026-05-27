@@ -1,0 +1,7 @@
+services:
+  bash-flag:
+    build: .
+    container_name: bash-flag
+    stdin_open: true
+    tty: true
+    working_dir: /bash_flag

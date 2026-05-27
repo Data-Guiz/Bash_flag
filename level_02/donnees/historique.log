@@ -1,0 +1,20 @@
+[2024-01-10 08:00:01] INFO  — Démarrage du service archive
+[2024-01-10 08:00:02] INFO  — Vérification des dossiers : OK
+[2024-01-10 08:00:03] NOTE  — Indice tête : le nom du fichier utile commence par "rapport"
+[2024-01-10 08:15:22] INFO  — Synchronisation terminée
+[2024-01-10 09:02:11] WARN  — Tentative de lecture sur un gros fichier sans head/tail
+[2024-01-10 09:02:12] INFO  — Conseil : utilisez less pour parcourir lentement
+[2024-01-10 10:30:00] INFO  — Import de 142 fichiers
+[2024-01-10 11:00:00] INFO  — Nettoyage des fichiers temporaires
+[2024-01-10 12:00:00] INFO  — Pause déjeuner système
+[2024-01-10 13:00:00] INFO  — Reprise des opérations
+[2024-01-10 14:22:08] INFO  — Analyse du dossier donnees/
+[2024-01-10 14:22:09] DEBUG — Fichiers ignorés : brouillon.txt, vieux_backup.log
+[2024-01-10 14:22:10] INFO  — Fichier pertinent détecté : rapport_secret.txt
+[2024-01-10 15:00:00] INFO  — Compression des archives
+[2024-01-10 16:00:00] INFO  — Indexation terminée
+[2024-01-10 17:00:00] INFO  — Sauvegarde distante : OK
+[2024-01-10 18:00:00] INFO  — Fin de journée
+[2024-01-11 08:00:01] INFO  — Nouveau démarrage
+[2024-01-11 08:00:02] NOTE  — Indice queue : lisez la dernière ligne de rapport_secret.txt
+[2024-01-11 08:00:03] INFO  — En attente d'un lecteur attentif...
