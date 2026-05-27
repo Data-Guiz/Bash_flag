@@ -14,6 +14,7 @@ cat <<'EOF'
 EOF
 
 echo "Commandes utiles pour démarrer :"
+echo "  10 niveaux disponibles (level_01 → level_10)"
 echo "  cd level_01 && cat README.md"
 echo ""
 

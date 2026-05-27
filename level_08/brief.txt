@@ -1,0 +1,12 @@
+Niveau 08 — find et locate
+
+Un fichier nommé flag_niveau08.txt contient le flag.
+Il est caché quelque part sous level_08/.
+
+Méthode 1 :
+  find . -type f -name "flag_niveau08.txt"
+
+Méthode 2 :
+  locate flag_niveau08.txt
+
+Puis lisez le fichier trouvé avec cat.

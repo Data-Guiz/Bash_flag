@@ -1,0 +1,7 @@
+2024-03-01 08:00:00 INFO  Boot système
+2024-03-01 08:00:01 INFO  Montage disques OK
+2024-03-01 09:12:44 INFO  Mise à jour sécurité appliquée
+2024-03-01 10:00:00 INFO  Service cron actif
+2024-03-01 11:22:07 NOTE  FLAG{grep_search_master} — validation CTF niveau 05
+2024-03-01 12:00:00 INFO  Nettoyage /tmp
+2024-03-01 18:00:00 INFO  Arrêt propre

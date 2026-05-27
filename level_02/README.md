@@ -37,6 +37,11 @@ Cette fois, inutile de fouiller des dossiers : tout se joue dans **la lecture de
 
 ## Validation
 
-Quand vous avez le flag, passez au niveau 03 ou consultez `solution.md` si vous êtes bloqué.
+Quand vous avez le flag, passez au niveau 03 :
+
+```bash
+cd ../level_03
+cat README.md
+```
 
 **Bonne lecture !**

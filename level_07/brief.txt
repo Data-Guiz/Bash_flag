@@ -1,0 +1,12 @@
+Niveau 07 — cut, sort, uniq, wc
+
+Fichier principal : donnees/export.csv (séparateur ;)
+
+Extrait la 3e colonne :
+  cut -d';' -f3 donnees/export.csv
+
+Repère le flag :
+  cut -d';' -f3 donnees/export.csv | grep FLAG
+
+Pour s'entraîner sur sort/uniq/wc, ouvrez donnees/equipe.txt :
+  sort donnees/equipe.txt | uniq | wc -l

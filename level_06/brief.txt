@@ -1,0 +1,13 @@
+Niveau 06 — Pipes et redirections
+
+Le fichier donnees/bruit.log contient beaucoup de bruit et une seule ligne utile.
+
+Étape 1 — afficher le flag avec un pipe :
+  cat donnees/bruit.log | grep FLAG
+
+Étape 2 — enregistrer le résultat dans resultat.txt :
+  grep FLAG donnees/bruit.log > resultat.txt
+
+Étape 3 — lire resultat.txt avec cat.
+
+Le flag y est écrit en entier.

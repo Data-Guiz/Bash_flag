@@ -1,0 +1,9 @@
+2024-03-01 10:00:01 INFO  Application démarrée
+2024-03-01 10:00:02 INFO  Connexion base de données OK
+2024-03-01 10:15:33 WARN  Latence élevée sur /api/users
+2024-03-01 10:15:34 INFO  Cache invalidé
+2024-03-01 11:00:00 INFO  Sauvegarde planifiée
+2024-03-01 12:30:00 ERROR Timeout sur service externe
+2024-03-01 14:00:00 INFO  Redémarrage worker #2
+2024-03-01 15:45:12 DEBUG FLAG{fausse_piste} détecté — alerte ignorée
+2024-03-01 16:00:00 INFO  Fin de session

@@ -1,0 +1,8 @@
+Fichier caché — bravo pour l'avoir trouvé avec ls -a !
+
+Le flag est dans un fichier nommé flag.txt.
+Depuis level_03, lancez :
+
+  find . -name "flag.txt"
+
+Puis lisez le fichier trouvé avec cat.

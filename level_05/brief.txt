@@ -1,0 +1,6 @@
+Niveau 05 — grep
+
+Des journaux d'application sont stockés dans logs/.
+Le flag est écrit quelque part dans l'un de ces fichiers.
+
+Cherchez toutes les lignes contenant FLAG dans le dossier logs/.

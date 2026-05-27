@@ -1,0 +1,6 @@
+id;libelle;valeur
+1;statut;actif
+2;version;2.4.1
+3;secret;FLAG{cut_sort_uniq_wc}
+4;region;eu-west
+5;mode;production

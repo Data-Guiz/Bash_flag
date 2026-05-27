@@ -1,0 +1,11 @@
+Niveau 09 — Variables d'environnement
+
+Le flag est dans une variable déjà définie dans votre session.
+
+Essayez :
+  env | grep CTF
+  echo $CTF_SECRET
+
+Pour charger des indices locaux :
+  source config.sh
+  echo $INDICE_NIVEAU09

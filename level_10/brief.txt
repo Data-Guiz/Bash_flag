@@ -1,0 +1,15 @@
+Niveau 10 — Script Bash (final)
+
+Le script decode.sh vérifie un mot de passe passé en argument.
+
+Lisez le script :
+  cat decode.sh
+
+Exécutez-le avec le bon mot (indice : le nom de votre interpréteur) :
+  bash decode.sh bash
+
+Variante — rendre le script exécutable :
+  chmod +x decode.sh
+  ./decode.sh bash
+
+Bonne fin de parcours !

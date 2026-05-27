@@ -1,0 +1,1 @@
+FLAG{find_locate_master}

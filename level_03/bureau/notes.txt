@@ -1,0 +1,3 @@
+Rien d'important sur le bureau visible.
+
+Les fichiers cachés commencent par un point : ls -a

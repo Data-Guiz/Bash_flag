@@ -1,0 +1,7 @@
+Niveau 03 — Fichiers cachés
+
+Sous Linux, les noms qui commencent par un point (.) sont cachés.
+Un simple ls ne suffit pas toujours.
+
+Explorez le dossier bureau/ avec ls -a.
+Puis utilisez find pour localiser flag.txt dans tout le niveau.

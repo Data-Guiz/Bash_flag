@@ -1,0 +1,8 @@
+Niveau 04 — Permissions
+
+Le flag est dans coffre/flag.txt mais il est protégé.
+Utilisez ls -l pour inspecter les droits, puis chmod pour les modifier.
+
+Commencez par :
+  whoami
+  ls -l coffre/

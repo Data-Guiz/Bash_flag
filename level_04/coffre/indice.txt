@@ -1,0 +1,6 @@
+Le fichier flag.txt existe ici, mais ses permissions empêchent la lecture.
+
+Regardez ls -l : si vous êtes le propriétaire (colonne de droite),
+vous pouvez vous redonner l'accès avec :
+
+  chmod u+r flag.txt

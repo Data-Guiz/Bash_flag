@@ -1,0 +1,1 @@
+FLAG{hidden_files_find}
